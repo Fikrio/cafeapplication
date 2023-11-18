@@ -1,0 +1,22 @@
+{
+    "name": "Cafe Application",
+    "short_name": "Cafe Application",
+    "description": "Aplikasi Cafe sederhana dengan javascript PWA",
+    "icons": [
+        {
+            "src": "assets/images/cafe-000.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/images/cafe-001.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#1F3641",
+    "background_color": "#ffffff",
+    "prefer_related_applications": false
+}
